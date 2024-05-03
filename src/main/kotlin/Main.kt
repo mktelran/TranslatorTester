@@ -5,8 +5,6 @@ import com.squareup.moshi.Moshi
 import com.squareup.moshi.Types
 import com.squareup.moshi.kotlin.reflect.KotlinJsonAdapterFactory
 import dto.Problem
-import dto.ResultItem
-import dto.Results
 import retrofit2.Retrofit
 import retrofit2.converter.moshi.MoshiConverterFactory
 
